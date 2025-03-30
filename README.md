@@ -62,4 +62,4 @@
     4. Video: chứa video thực hiện chi tiết step-by-step toàn bộ các quá trình SSIS, SSAS, Power BI, Looker.
     5. The information of group: chứa thông tin của các thành viên.
     6. Document: chứa file word và file pdf quyển báo cáo đồ án.
-    7. Slide trình bày đồ án môn học: chứa file pptx trình bày tóm tắt về các chương của đồ án.
+    7. Slide trình bày đồ án môn học: chứa file pdf trình bày tóm tắt về các chương của đồ án.
