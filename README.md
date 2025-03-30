@@ -33,7 +33,7 @@
   - Random Forest
   - XGBoost
 
-# 5. Công nghệ và các kỹ năng học được thông qua đồ án môn học
+# 5. Công nghệ và các kỹ năng học được thông qua đồ án
 - Data Warehouse
 - Data Modeling
 - Extract, Transform, Load (ETL)
