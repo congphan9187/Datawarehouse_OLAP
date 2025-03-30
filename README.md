@@ -26,12 +26,12 @@
   - Thao tác với khối Cube ở Visual Studio.
   - Excel Pivot.
 - Chương 4: Quá trình SSRS - Trực quan hoá dữ liệu và tạo report
-  - Power BI.
-  - Looker.
+  - Power BI
+  - Looker
 - Chương 5: Quá trình Data mining - Khai phá dữ liệu
-  - Decision Tree.
-  - Random Forest.
-  - XGBoost.
+  - Decision Tree
+  - Random Forest
+  - XGBoost
 
 # 5. Công nghệ và các kỹ năng học được thông qua đồ án môn học
 - Data Warehouse
@@ -47,5 +47,19 @@
 - Machine Learning
 - Microsoft SQL Server
 
-# 6. Reference
-Ngoài link GitHub này, mọi người có thể xem chi tiết [tại đây](https://drive.google.com/drive/folders/1uMrZ78hLpDvbqrB4dthKEhHFHsKbK5OV?usp=drive_link)
+# 6. Tham chiếu
+- Nguồn dataset: https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
+- Xem chi tiết [tại đây](https://drive.google.com/drive/folders/1uMrZ78hLpDvbqrB4dthKEhHFHsKbK5OV?usp=drive_link). Cấu trúc thư mục như sau:
+    1. Data: chứa dataset.
+    2. Source:
+       - PowerBI & Looker: chứa 6 file pdf tương ứng với các report được tạo với công cụ Power BI (3 report) và Looker (3 report).
+       - SSIS: chứa source của quá trình SSIS.
+       - SSAS: chứa source của quá trình SSAS.
+       - Pivot Excel: chứa 15 file excel pivot tương ứng với 15 câu truy vấn đa chiều trong quá trình phân tích dữ liệu trực tuyến của chương 3.
+       - Data Mining: chứa file jupyter notebook mã nguồn Python cho quá trình khai phá dữ liệu ở chương 5 với 3 thuật toán Decision Tree, Random Forest, XGBoost.
+       - MDX: chứa script ngôn ngữ MDX với 15 câu truy vấn đa chiều trong quá trình phân tích dữ liệu trực tuyến của chương 3.
+    3. Database: chứa file mdf và file ldf của kho dữ liệu trong suốt quá trình thực hiện đồ án.
+    4. Video: chứa video thực hiện chi tiết step-by-step toàn bộ các quá trình SSIS, SSAS, Power BI, Looker.
+    5. The information of group: chứa thông tin của các thành viên.
+    6. Document: chứa file word và file pdf quyển báo cáo đồ án.
+    7. Slide trình bày đồ án môn học: chứa file pptx trình bày tóm tắt về các chương của đồ án.
