@@ -48,8 +48,8 @@
 - Microsoft SQL Server
 
 # 6. Tham chiếu
-- Nguồn dataset: https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
-- Xem chi tiết [tại đây](https://drive.google.com/drive/folders/1uMrZ78hLpDvbqrB4dthKEhHFHsKbK5OV?usp=drive_link). Cấu trúc thư mục như sau:
+- Nguồn dataset: [Kaggle](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset)
+- Xem chi tiết [tại đây](https://drive.google.com/drive/folders/1uMrZ78hLpDvbqrB4dthKEhHFHsKbK5OV?usp=drive_link). Cấu trúc thư mục trong link drive như sau:
     1. Data: chứa dataset.
     2. Source:
        - PowerBI & Looker: chứa 6 file pdf tương ứng với các report được tạo với công cụ Power BI (3 report) và Looker (3 report).
