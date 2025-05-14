@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/e9a8e54a-5969-427b-a04b-520ab7eedcc0" alt="image" style="display: block; margin: auto;">
+<img src="https://github.com/user-attachments/assets/f1bda9fd-f038-4afc-be13-0ea34fa28323" alt="image" style="display: block; margin: auto;">
 
 # 1. Giới thiệu đồ án môn học
 
